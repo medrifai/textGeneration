@@ -1,0 +1,1152 @@
+1
+
+Massimo Moruzzi
+
+15 QUESTIONS ABOUT ONLINE
+ADVERTISING
+
+2
+
+From the Author of:
+What Happened To Advertising? What
+Would Gossage Do?
+
+15 Questions About Online Advertising
+
+Copyright © 2015 by Massimo Moruzzi
+All rights reserved.
+
+UUID: d139bbd4-a009-11e6-9358-0f7870795abd
+T h i s e b o o k w a s c r e a t e d w i t h S t r e e t L i b Wr i t e
+( h t t p : // w r i t e . s t r e e t l i b . c o m )
+by Simplicissimus Book Farm
+
+3
+
+Table of contents
+
+INTRO
+
+7
+
+1. WHY BANNER ADS?
+
+9
+
+2. WHAT WAS ONLINE
+ADVERTISING SUPPOSED TO BE
+LIKE?
+
+11
+
+3. DID IT WORK OUT AS
+ADVERTISED?
+
+13
+
+4. ​WHY NOT?
+
+15
+
+5. WHY ARE BANNER ADS STILL
+AROUND?
+
+17
+
+6. IS ALL THIS TARGETING GOOD?
+
+19
+
+7. IS THIS ADVERTISING AT ALL?
+
+21
+
+8. HOW BIG IS THIS THING?
+
+23
+
+9. WHAT IS PROGRAMMATIC?
+
+25
+
+10. DOES ONLINE ADVERTISING
+WORK FOR PUBLISHERS?
+11. DOES IT WORK FOR
+4
+
+27
+
+ADVERTISERS?
+
+29
+
+12. DOES IT WORK FOR THE
+MIDDLEMEN?
+
+31
+
+​13. IS IT A GIGANTIC SCAM?
+
+33
+
+​14. SHOULD MY COMPANY STAY
+AWAY FROM BANNER ADS?
+
+35
+
+15. IS THERE ANY HOPE FOR
+ONLINE ADVERTISING?
+
+37
+
+ABOUT THE AUTHOR
+
+39
+
+GET IN TOUCH
+
+40
+
+ONE LAST THING...
+
+41
+
+NOTES
+
+42
+
+5
+
+This book is dedicated to the memory of
+my grandmother, Nonna Angela.
+- Saint-Rhémy-en-Bosses (AO), Italy, July
+2015
+
+6
+
+INTRO
+
+The real question of course is: Does online
+advertising work?
+Unfortunately, it's impossible to give a
+simple
+
+answer
+
+to
+
+this
+
+apparently
+
+straightforward question. For starters, this is
+not a single question, but at least three
+diﬀerent ones, as we shall see. The right
+question to ask would be: for whom does
+online advertising work?
+But even before we try to answer this
+question, we need to deﬁne what we're talking
+about:
+
+banner
+
+ads;
+
+not
+
+classified ads.
+7
+
+search
+
+ads,
+
+nor
+
+Then we need to ask ourselves how online
+advertising started, what it was supposed to be
+like, if it worked out as advertised, why it went
+astray, why it's still around, what it has
+become etc.
+Let's get started.
+
+8
+
+1. WHY BANNER ADS?
+
+Why were banner ads introduced in the
+ﬁrst
+
+place,
+
+starting
+
+with
+
+the
+
+infamous
+
+1994 AT&T banner ad on Wired.com that said:
+“Have you ever clicked your mouse right
+HERE? YOU WILL!”? [1]
+Because
+
+advertising
+
+was
+
+the
+
+easiest business model for a web startup to
+implement, and the easiest to market to
+investors.
+
+There's
+
+advertising
+
+in
+
+the
+
+newspaper, right? And in magazines. So you
+have this new medium with a lot of words and
+a modicum, back then, of images. What do
+you do? You stick your company's logo in a
+coloured rectangle and you're done!
+9
+
+Web startups could sign a deal with an ad
+network, forget about sales and focus on
+building
+
+an
+
+audience.
+
+If
+
+revenues
+
+were
+
+insuﬃcient to cover the costs, which was the
+rule, it didn't matter because the mantra was
+that a site with millions of users would surely
+ﬁnd a way to generate revenue sometime in
+the future. The later, the better [2].
+At least until the Bubble burst.
+
+10
+
+2. WHAT WAS ONLINE
+ADVERTISING SUPPOSED
+TO BE LIKE?
+
+Online advertising was supposed to be
+wonderful, new, and exciting. But most of all,
+interactive! The idea was that, for reasons
+which I have yet to understand, people would
+want to “interact” with banner ads. Thus the
+IAB, or Interactive (not Internet, mind you)
+Advertising Bureau, was born.
+My ﬁrst question is: why in the world
+would you want anybody to “interact with
+your ads”? Wasn’t the goal of advertising to
+convince people to buy your bloody product?
+11
+
+Second question: do you interact with TV
+ads? I usually head up and go to the bathroom.
+Why in the world would it be any diﬀerent
+online, when I’m completing an important
+task or doing something that interests me and
+not just killing time in front of the dumb
+screen? [3]
+
+12
+
+3. DID IT WORK OUT AS
+ADVERTISED?
+
+No. Nobody wanted to “interact”. Nobody
+even clicked.
+What
+advertising”
+
+was
+is
+
+once
+now
+
+called
+called
+
+“interactive
+“display
+
+advertising”, i.e. advertising nobody “interacts”
+with. The average click rate on banner ads
+is around 0.1%, or one in a thousand, and less
+than half that little for the old format, the
+468×60 banner ad [4].
+It’s pretty crude but, if you believe what
+Solve Media says, you are much more likely to
+survive a plane crash than to click on a banner
+13
+
+ad [5].
+To add insult to injury, those who do click
+are a small number of people who account for
+a disproportionate amount of clicks: 8 percent
+of Internet users account for 85 percent of
+clicks. And guess what? It's mostly the poor
+and the uneducated who click on banner ads.
+Were
+
+those
+
+the
+
+people
+
+"target"? [6]
+
+14
+
+you
+
+wanted
+
+to
+
+4. WHY NOT?
+
+The days of the ridiculous banner ad
+barter exchange networks and of websites that
+used banner ads to promote areas or features
+of their own websites whenever nobody
+bought an ad placement are long gone, and
+not missed.
+But still: how many web pages do you
+browse in a day? There's at least a banner ad
+on every single page, and sometimes more
+than one.
+Why
+
+were
+
+web
+
+users
+
+–
+
+that
+
+is,
+
+us – expected to interact with all these things
+in large numbers? Somebody should explain
+to those who work in advertising that users are
+15
+
+not half as entertained as they are about the
+product
+
+of
+
+their
+
+work,
+
+especially
+
+if
+
+it's delivered in a poor format like banner ads
+and with sub-par creativity. Did they really
+think that we had nothing better to do online?
+Think again.
+
+16
+
+5. WHY ARE BANNER ADS
+STILL AROUND?
+
+Banner
+
+ads
+
+have
+
+shown
+
+remarkable
+
+staying power as a format, especially if you
+consider
+
+how
+
+performed.
+Because
+
+badly
+
+they
+
+have
+
+under-
+
+Why
+
+are
+
+they
+
+still
+
+around?
+
+nobody
+
+had
+
+the
+
+guts
+
+or
+
+the
+
+imagination to come up with something better
+and smarter.
+Sure, the IAB made them bigger, and
+standardised the sizes, but the format itself
+was never questioned [7].
+What happened instead was a furious race
+to extract at least some value out of this waste
+17
+
+land, out of these billions of banner ads that
+laid
+
+bare
+
+burst.
+
+and
+
+Aﬃliate
+
+Adsense,
+
+then
+
+unsold
+
+a er
+
+marketing,
+
+the
+
+then
+
+behavioural
+
+Bubble
+Google's
+
+targeting,
+
+retargeting, search retargeting etc.
+No matter how improved the targeting,
+click-through rates remain abysmal.
+
+18
+
+6. IS ALL THIS TARGETING
+GOOD?
+
+No, it's not.
+If it were good, Apple wouldn't say with
+pride that Safari is "the ﬁrst browser to block
+these cookies by default", would they? Apple
+could easily implement more tracking than
+other browsers. Why don’t they? Why doesn’t
+Apple’s browser “help you connect and share
+with your favorite brands”? [8]
+Let me tell you why it's not good from a
+simple
+
+business
+
+perspective:
+
+because
+
+the
+
+breach of privacy and the abuse of trust is
+increasingly resented, and more resented the
+19
+
+more
+
+consumers
+
+understand
+
+how
+
+it
+
+works [9] ; and as a result, ad-blocking so ware
+being more widespread than anti-tracking
+so ware,
+
+people
+
+decide
+
+to
+
+block
+
+ads
+
+altogether.
+In 2014, 41% of Americans under the age of
+30 used AdBlock to block out ads [10].
+
+20
+
+7. IS THIS ADVERTISING AT
+ALL?
+
+No, not really.
+In the days before brand became a verb,
+and more speciﬁcally something you do to
+manipulate consumers, advertisers invested
+large amounts of money to put their name in
+front of large segments of the population.
+Their promise to the world was fairly simple:
+this is our product, it's great, it does this and
+that and we are sure you'll love it! [11]
+From the days of Don Peppers and Martha
+Rogers's The One to One Future, it's been a race
+to get your company to speak with (actually:
+21
+
+to) the individual consumer. Success, however,
+has been bittersweet. An audience of one is not
+an
+
+audience. With
+
+promise
+
+to
+
+the
+
+no
+
+audience
+
+and
+
+no
+
+wider
+
+public,
+
+it's
+
+not
+
+advertising anymore [12].
+It's
+
+just
+
+direct
+
+marketing
+
+on
+
+steroids
+
+fuelled by tracking that would have put the
+KGB – or the NSA – to shame.
+
+22
+
+8. HOW BIG IS THIS
+THING?
+
+It's huge.
+According to Comscore, a staggering 5.3
+trillion display ads impressions were delivered
+in the U.S. in 2012, with Q4 seeing the most at
+1.4 trillion – up 6 percent from 2011. AT&T
+ranked as the #1 advertiser with 104.8 billion
+ad impressions. Microsoft came in second with
+47.4 billion impressions. No fewer than 445
+diﬀerent advertisers delivered more than a
+billion banner ads in 2012 [13].
+In 2014, display ads were expected to be
+worth
+
+about
+
+50
+
+billion
+23
+
+USD
+
+worldwide,
+
+or about 10% of the total global ad spend [14].
+Which is amazing for a format which was
+presented as a revolution, failed utterly and
+ended up becoming creepy direct marketing
+of the worst kind which fails publishers and
+advertisers alike and antagonises consumers.
+
+24
+
+9. WHAT IS
+PROGRAMMATIC?
+
+Programmatic is a set of technologies that
+automate
+
+the
+
+buying,
+
+placement,
+
+and
+
+optimisation of media inventory in the digital
+space: display ads, video ads, and mobile
+ads [15].
+Programmatic
+
+advertising
+
+technology
+
+promises to make the ad buying system
+quicker
+
+and
+
+more
+
+eﬃcient:
+
+it
+
+allows
+
+advertisers to buy guaranteed ad impressions
+in advance from speciﬁc publisher sites, and
+it allows publishers to sell ad space via realtime auctions, with real-time bidding (RTB).
+
+25
+
+While RTB has historically been associated
+with remnant inventory, the technology is
+now applied to a wider range of inventory. Or,
+as I like to say, it's (almost) all remnant
+inventory: Advertising on the web has become
+the reign of large-scale, low-quality direct
+response that buys ad space anywhere it can
+find it and judges it just by the results.
+
+26
+
+10. DOES ONLINE
+ADVERTISING WORK FOR
+PUBLISHERS?
+
+No, it doesn't.
+In the move from analog to digital,
+publishers are getting digital pennies [16] for
+the analog advertising dollars they used to
+make.
+Why? First, because “online advertising” is
+direct marketing, and direct marketers are
+pretty
+
+stingy
+
+with
+
+their
+
+money.
+
+Second,
+
+because the vast improvements in targeting
+mean that they can ﬁnd the users they want
+27
+
+on any site; it's not necessary to pay more to
+show their ads on sites with good content or a
+good reputation.
+Lastly,
+
+because
+
+there
+
+are
+
+so many intermediaries taking a cut in the
+targeting war on consumers [17] that, according
+to
+
+Tim Armstrong,
+
+between
+
+25%
+
+and
+
+CEO
+45%
+
+of AOL,
+of
+
+the
+
+money
+
+spent makes it as far as the publishers [18].
+
+28
+
+only
+
+11. DOES IT WORK FOR
+ADVERTISERS?
+
+Not as "advertising".
+As Bob Hoﬀman says: "Please show me a
+company that was able to create a brand with
+online advertising" [19].
+It's direct marketing, except that a direct
+marketer will attribute a sale only if there's a
+direct
+
+and
+
+demonstrable
+
+link
+
+from
+
+his
+
+eﬀort to the sale. But what happens when you
+try
+
+to
+
+attribute
+
+a
+
+sale
+
+to
+
+a
+
+type
+
+of
+
+advertising in which a carefully executed
+branding banner ad gets fewer clicks than a
+blank, empty white one? [20]
+29
+
+When
+
+you
+
+start
+
+pretending
+
+that
+
+a
+
+consumer was "inﬂuenced” by a banner ad he
+or she never clicked on, but fail to do the same
+with the big money spent on print, radio or
+TV ads, or with the fact that certain brands are
+very powerful and worth billions, or with the
+fact that their merchandise is shown in stores,
+we have a problem [21].
+
+30
+
+12. DOES IT WORK FOR THE
+MIDDLEMEN?
+
+You bet it does!
+That's why they are pushing it! With the
+notable exception of Apple, this is Silicon
+Valley's
+
+new
+
+business
+
+model
+
+of
+
+choice! Following Google's incredible success,
+even Microso , a company that did pretty
+well
+
+selling
+
+so ware,
+
+set
+
+up
+
+entire
+
+divisions – think about Bing, or Windows
+Mobile – based on the idea that the future
+would be ad-supported.
+One of the problems is precisely that it is
+Silicon
+
+Valley's
+
+business
+31
+
+model.
+
+It
+
+has become a tech thing: it's all about targeting
+and results and large-scale number-crunching.
+Creativity
+
+and
+
+wit
+
+don't
+
+count
+
+a
+
+thing
+
+anymore.
+The other problem is that it doesn't work.
+But this is a great opportunity for Silicon
+Valley to sell companies more services to
+target, slice and dice, or to trick people into
+thinking that it's all fine.
+
+32
+
+13. IS IT A GIGANTIC
+SCAM?
+
+Well, there are plenty of small and large
+scams.
+In November, 2014, Google reported that
+56% of the display ads were "not viewable" [22].
+Comscore reports very similar numbers [23].
+So let's put it this way: yes, it is very opaque to
+say the least, and you should be careful.
+But the real problem is that the banner ad
+is a poor format that was sold to us as gold
+(interactive advertising) when in fact it is toxic
+lead,
+
+low-quality
+
+direct
+
+marketing
+
+which
+
+works only thanks to the extreme tracking of
+33
+
+users' habits that is increasingly resented.
+And, even so, it "works", or gives you the
+impression of working, only if you bend the
+rules of direct marketing and start counting
+the "inﬂuence" a banner ad nobody clicked on
+may have had on a successive sale. This is the
+real scam.
+
+34
+
+14. SHOULD MY COMPANY
+STAY AWAY FROM BANNER
+ADS?
+
+If you are a startup, do whatever it takes.
+You have no brand to compromise, and you
+could well be dead within 6 months' time, so
+go ahead. If for some strange reason banner
+ads bring you the right users at the right price,
+go for it!
+If,
+
+on
+
+the
+
+other
+
+hand,
+
+you
+
+are
+
+an
+
+established company, do you really want to do
+low-level direct marketing which o en upsets
+your customers just because you are told you
+should?
+35
+
+Instead,
+
+ask
+
+yourself
+
+some
+
+hard questions: Would you advertise on
+dubious newspapers or magazines? Would you
+buy ads without knowing where they are going
+to run? Would you place TV ads late at night
+and in the company of shady advertisers?
+Why not? Because the places where you
+advertise and the other advertisers in whose
+company you advertise do matter.
+
+36
+
+15. IS THERE ANY HOPE
+FOR ONLINE ADVERTISING?
+
+Meaning: Can parts of the web remain free
+and supported by quality online advertising,
+advertising companies can feel comfortable
+buying, advertising that could actually help
+them and advertising that could pay the bills
+for publishers?
+Probably not, if you ask me.
+Don Marti, however, has an interesting
+contrarian idea which is worth exploring:
+serious publishers should tell their readers
+how badly they are being tracked, opt-out of
+the scheme and insist that their readers do the
+37
+
+same by installing anti-tracking so ware that
+would make it impossible for advertisers to
+target them on dubious websites, thus forcing
+advertisers to go back to the old ways of
+having to spend good money it they want to
+reach an interesting audience on a quality
+website. Will it work? [24]
+
+38
+
+ABOUT THE AUTHOR
+
+Starting
+
+in
+
+2000,
+
+I
+
+have
+
+worked
+
+or
+
+consulted for a number of start-ups from
+more
+
+countries
+
+than
+
+I
+
+can
+
+probably
+
+remember: Germany (Ciao); France (Meetic);
+Italy
+
+(Ennunci);
+
+Sweden
+
+(Twingly);
+
+Italy/Ireland (Zzub); Denmark (Atosho); Spain
+(Ducksboard); and now Canada (Transit App).
+I am the author of:
+What Happened To Advertising? What
+Would Gossage Do?
+
+39
+
+GET IN TOUCH
+
+Please email me at:
+massimo@dotcoma.it
+
+40
+
+ONE LAST THING...
+
+Enjoyed this short book?
+Please let the world know by posting a
+review. Thanks!
+On Amazon
+https://www.amazon.com/dp/B01CZ8YS
+WU/
+or on Goodreads
+https://www.goodreads.com/book/show/2
+6038478
+
+41
+
+NOTES
+[1] Long Ago and Far Away the Banner Ad Was
+Born
+http://www.wired.com/2013/04/bannerad
+[2] The Internet's Original Sin
+http://www.theatlantic.com/technology/archive/2
+014/08/advertising-is-the-internets-originalsin/376041
+[3] For more on Interactive Advertising, please see
+Chapter 2 of
+What Happened To Advertising? What Would Gossage
+Do?
+[4] US, Europe and Worldwide display ad clickthrough rates statistics summary
+http://www.smartinsights.com/internetadvertising/internet-advertisinganalytics/display-advertising-clickthrough-rates
+[5] It's More Likely You Will Survive A Plane
+Crash Or Win The Lottery Than Click A Banner
+Ad
+http://www.businessinsider.com/its-more-likelyyou-will-survive-a-plane-crash-or-win-thelottery-than-click-a-banner-ad-2011-6?op=1
+[6] Who clicks on ads? And what might this mean?
+http://www.zephoria.org/thoughts/archives/2007/
+12/03/who_clicks_on_a.html
+
+42
+
+[7] New Online Ad Size Research Reinforces
+"Bigger is better" Mantra
+http://www.iab.net/about_the_iab/recent_press_r
+eleases/press_release_archive/press_release/4648
+[8] Targeted Advertising Considered Harmful
+http://zgp.org/targeted-advertising-consideredharmful
+[9] PEW Internet: Targeted advertising: 59% of
+internet users have noticed it, but most don’t like
+it
+http://www.pewinternet.org/2012/03/09/mainfindings-11
+[10] 2014 Report - Adblocking Goes Mainstream
+http://downloads.pagefair.com/reports/adblockin
+g_goes_mainstream_2014_report.pdf
+[11] The Waste in Advertising Is the Part That
+Works
+http://www.researchgate.net/publication/4733724
+_The_Waste_in_Advertising_Is_the_Part_That_
+Works
+[12] Web Ads With An Audience Of One
+http://www.washingtonpost.com/wpdyn/content/article/2007/05/18/AR200705180212
+1.html
+[13] Comscore 2013 U.S. Digital Future in Focus
+http://www.comscore.com/Insights/Presentations
+-and-Whitepapers/2013/2013-US-Digital-Future-
+
+43
+
+in-Focus
+[14] Internet Ad Spend To Reach $121B In 2014
+http://techcrunch.com/2014/04/07/internet-adspend-to-reach-121b-in-2014-23-of-537b-total-adspend-ad-tech-gives-display-a-boost-over-search
+[15] WTF is programmatic advertising?
+http://digiday.com/platforms/what-isprogrammatic-advertising
+[16] Trading Analog Dollars For Digital Pennies
+http://avc.com/2008/11/trading-analog
+[17] Display Lumascape
+http://www.lumapartners.com/lumascapes/displa
+y-ad-tech-lumascape
+[18] AOL Will Launch Ad-Tech 'Upfront' In
+Hopes Of Challenging Google
+http://adage.com/article/digital/aol-launchupfront-programmatic-ad-buying/243278
+[19] Take The Refrigerator Test
+http://adcontrarian.blogspot.com/2015/05/takerefrigerator-test.html
+[20] How Blank Display Ads Managed to Tot Up
+Some Impressive Numbers
+http://adage.com/article/digital/incredible-clickrate/236233
+[21] For more on the issue of tracking, please see
+Chapter 9 of
+
+44
+
+What Happened To Advertising? What Would Gossage
+Do?
+[22] Google Just Admitted More Than Half Of
+The Ads It Serves Are Never Seen
+http://uk.businessinsider.com/google-display-adviewability-study-2014-12
+[23] 2015 U.S. Digital Future in Focus
+http://www.comscore.com/Insights/Presentations
+-and-Whitepapers/2015/2015-US-Digital-Futurein-Focus
+[24] A fresh start for advertising and the web?
+http://zgp.org/~dmarti/business/fresh-start
+
+45
+
+

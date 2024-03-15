@@ -1,0 +1,470 @@
+rankmovie_id   title   year link   imbd_votesimbd_ratingcertificatedurationgenre   cast_id
+           The
+           Shawshank
+1tt0111161 Redemption 1994https://www.imdb.com/title/tt0111161 2,711,075   9.3R   2h 22m Drama   nm0000209,nm0000151,nm0348409,nm0006669,nm0000317,nm0004743,nm0001679
+           The
+2tt0068646 Godfather   1972https://www.imdb.com/title/tt0068646 1,882,829   9.2R   2h 55m Crime,Drama   nm0000008,nm0000199,nm0001001,nm0144710,nm0000380,nm0001330,nm0549134
+           The Dark
+3tt0468569 Knight     2008https://www.imdb.com/title/tt0468569 2,684,051   9PG-13   2h 32m Action,Crime,Drama   nm0000288,nm0005132,nm0001173,nm0000323,nm0350454,nm0000198,nm0000151
+           The
+           Godfather
+4tt0071562 Part II     1974https://www.imdb.com/title/tt0071562 1,285,350   9R   3h 22m Crime,Drama   nm0000199,nm0000380,nm0000473,nm0000134,nm0001030,nm0001735,nm0833448
+           12 Angry
+5tt0050083 Men        1957https://www.imdb.com/title/tt0050083 800,954   9Approved1h 36m Crime,Drama   nm0000842,nm0275835,nm0002011,nm0550855,nm0001430,nm0083081,nm0912001
+           Schindler's
+6tt0108052 List        1993https://www.imdb.com/title/tt0108052 1,369,626   9R   3h 15m Biography,Drama,History   nm0000553,nm0001426,nm0000146,nm0328751,nm0755974,nm0001110,nm0311343
+             The Lord of
+             the Rings:
+             The Return
+             of the King
+7tt0167260                 2003https://www.imdb.com/title/tt0167260 1,865,812   9PG-13   3h 21m Action,Adventure,Drama   nm0032370,nm0040012,nm0000276,nm0040058,nm0045324,nm0000293,nm0000949
+8tt0110912 Pulp Fiction 1994https://www.imdb.com/title/tt0110912 2,081,489   8.9R   2h 34m Crime,Drama   nm0000619,nm0001625,nm0522503,nm0000237,nm0000168,nm0482851,nm0001844
+           The Lord of
+           the Rings:
+           The
+           Fellowship
+9tt0120737 of the Ring 2001https://www.imdb.com/title/tt0120737 1,895,357   8.8PG-13   2h 58m Action,Adventure,Drama   nm0397102,nm0032370,nm0000276,nm1019674,nm0000293,nm0101710,nm0785227
+            The Good,
+            the Bad and
+10tt0060196 the Ugly    1966https://www.imdb.com/title/tt0060196 769,389   8.8Approved2h 58m Adventure,Western   nm0908919,nm0000142,nm0001812,nm0321294,nm0685559,nm0711502,nm0677654
+            Forrest
+11tt0109830 Gump      1994https://www.imdb.com/title/tt0109830 2,106,590   8.8PG-13   2h 22m Drama,Romance   nm0000158,nm0931508,nm0000398,nm0402011,nm0381041,nm0446404,nm0672225
+12tt0137523 Fight Club   1999https://www.imdb.com/title/tt0137523 2,154,995   8.8R   2h 19m Drama   nm0001570,nm0000093,nm0001533,nm0340260,nm0037118,nm0028625,nm0536574
+              The Lord of
+              the Rings:
+              The Two
+              Towers
+13tt0167261                 2002https://www.imdb.com/title/tt0167261 1,684,712   8.8PG-13   2h 59m Action,Adventure,Drama   nm0021600,nm0000276,nm0045324,nm1019674,nm0000949,nm0089217,nm0101710
+14tt1375666 Inception   2010https://www.imdb.com/title/tt1375666 2,381,879   8.8PG-13   2h 28m Action,Adventure,Sci-Fi   nm0000138,nm0330687,nm0680983,nm0362766,nm0913822,nm2438307,nm0614165
+Star Wars:
+Episode V -
+            The Empire
+15tt0080684 Strikes Back 1980https://www.imdb.com/title/tt0080684 1,305,762   8.7PG   2h 4m Action,Adventure,Fantasy   nm0000434,nm0000148,nm0000402,nm0001850,nm0000355,nm0001190,nm0562679
+16tt0133093 The Matrix   1999https://www.imdb.com/title/tt0133093 1,933,943   8.7R   2h 16m Action,Sci-Fi   nm0000206,nm0000401,nm0005251,nm0915989,nm0287825,nm0001592,nm0159059
+17tt0099685 Goodfellas   1990https://www.imdb.com/title/tt0099685 1,175,868   8.7R   2h 25m Biography,Crime,Drama   nm0000134,nm0000501,nm0000582,nm0000966,nm0000649,nm0803370,nm0201700
+            One Flew
+            Over the
+            Cuckoo's
+18tt0073486 Nest       1975https://www.imdb.com/title/tt0073486 1,017,354   8.718+   2h 13m Drama   nm0077720,nm0110480,nm0111954,nm0113000,nm0001079,nm0191784,nm0000362
+19tt0114369 Se7en   1995https://www.imdb.com/title/tt0114369 1,674,020   8.6R   2h 7m Crime,Drama,Mystery   nm0000151,nm0001825,nm0669254,nm0000093,nm0000569,nm0144307,nm0532943
+            Seven                                                           Not
+20tt0047478 Samurai   1954https://www.imdb.com/title/tt0047478 349,499   8.6Rated   3h 27m Action,Drama   nm0001536,nm0793766,nm0875477,nm0793616,nm0297869,nm0441961,nm0454087
+            It's a
+            Wonderful
+21tt0038650 Life        1946https://www.imdb.com/title/tt0038650 467,723   8.6PG   2h 10m Drama,Family,Fantasy   nm0000071,nm0001656,nm0000859,nm0593775,nm0871287,nm0094135,nm0269709
+            The Silence
+22tt0102926 of the Lambs1991https://www.imdb.com/title/tt0102926 1,449,285   8.6R   1h 58m Crime,Drama,Thriller   nm0000149,nm0095029,nm0501435,nm0942145,nm0001277,nm0372217,nm0265670
+            Saving
+23tt0120815 Private Ryan1998https://www.imdb.com/title/tt0120815 1,406,855   8.6R   2h 49m Drama,War   nm0000158,nm0001744,nm0122653,nm0001608,nm0004965,nm0004874,nm0000610
+24tt0317248 City of God 2002https://www.imdb.com/title/tt0317248 763,772   8.6R   2h 10m Crime,Drama   nm1179105,nm1129884,nm1249574,nm1179683,nm1178560,nm0618690,nm1179580
+25tt0816692 Interstellar   2014https://www.imdb.com/title/tt0816692 1,870,060   8.6PG-13   2h 49m Adventure,Drama,Sci-Fi   nm0000995,nm0000190,nm3237775,nm0001475,nm3154303,nm0654648,nm2180792
+            Life Is
+26tt0118799 Beautiful   1997https://www.imdb.com/title/tt0118799 703,472   8.6PG-13   1h 56m Comedy,Drama,Romance   nm0000905,nm0000971,nm0134493,nm0243842,nm0082979,nm0004650,nm0001976
+            The Green
+27tt0120689 Mile        1999https://www.imdb.com/title/tt0120689 1,317,747   8.6R   3h 9m Crime,Drama,Fantasy   nm0000158,nm0001556,nm0001372,nm0003817,nm0000342,nm0005052,nm0001295
+28tt0076759 Star Wars   1977https://www.imdb.com/title/tt0076759 1,378,156   8.6PG   2h 1m Action,Adventure,Fantasy   nm0000434,nm0000148,nm0000402,nm0001088,nm0000027,nm0000355,nm0048652
+            Terminator
+            2: Judgment
+29tt0103064 Day         1991https://www.imdb.com/title/tt0103064 1,110,968   8.6R   2h 17m Action,Sci-Fi   nm0000216,nm0000157,nm0000411,nm0001598,nm0091286,nm0608012,nm0580924
+            Back to the
+30tt0088763 Future      1985https://www.imdb.com/title/tt0088763 1,221,395   8.5PG   1h 56m Adventure,Comedy,Sci-Fi   nm0000150,nm0000502,nm0000670,nm0000417,nm0001855,nm0920148,nm0566013
+            Spirited
+31tt0245429 Away       2001https://www.imdb.com/title/tt0245429 776,114   8.6PG   2h 5m Animation,Adventure,Family nm0383708,nm0997115,nm0622412,nm0619822,nm0768005,nm0309107,nm1126340
+32tt0253474 The Pianist 2002https://www.imdb.com/title/tt0253474 843,709   8.5R   2h 30m Biography,Drama,Music   nm0004778,nm0288976,nm0954076,nm0832380,nm0513520,nm0277975,nm0962577
+33tt0054215 Psycho   1960https://www.imdb.com/title/tt0054215 679,428   8.5R   1h 49m Horror,Mystery,Thriller   nm0000578,nm0587256,nm0001260,nm0001463,nm0000842,nm0570615,nm0643000
+34tt6751668 Parasite   2019https://www.imdb.com/title/tt6751668 828,575   8.5R   2h 12m Drama,Thriller   nm0814280,nm1310525,nm1856097,nm6079248,nm6476224,nm7553003,nm4525883
+            Léon: The
+35tt0110413 Professional 1994https://www.imdb.com/title/tt0110413 1,175,098   8.5R   1h 50m Action,Crime,Drama   nm0000606,nm0000198,nm0000204,nm0000732,nm0032216,nm0089112,nm0187199
+            The Lion
+36tt0110357 King       1994https://www.imdb.com/title/tt0110357 1,071,355   8.5G   1h 28m Animation,Adventure,Drama nm0000100,nm0000111,nm0129295,nm0191906,nm0000155,nm0347039,nm0000460
+37tt0172495 Gladiator   2000https://www.imdb.com/title/tt0172495 1,517,132   8.5R   2h 35m Action,Adventure,Drama   nm0000128,nm0001618,nm0001567,nm0001657,nm0001321,nm0001394,nm0005023
+            American
+38tt0120586 History X   1998https://www.imdb.com/title/tt0120586 1,132,911   8.5R   1h 59m Crime,Drama   nm0001570,nm0000411,nm0000350,nm0000497,nm0839486,nm0000103,nm0000984
+            The
+39tt0407887 Departed   2006https://www.imdb.com/title/tt0407887 1,339,871   8.5R   2h 31m Crime,Drama,Thriller   nm0000138,nm0000354,nm0000197,nm0000242,nm0000640,nm0935653,nm0267812
+            The Usual
+40tt0114814 Suspects    1995https://www.imdb.com/title/tt0114814 1,095,033   8.5R   1h 46m Crime,Drama,Mystery   nm0000286,nm0000321,nm0001125,nm0001629,nm0000228,nm0001590,nm0000592
+41tt0482571 The Prestige 2006https://www.imdb.com/title/tt0482571 1,348,423   8.5PG-13   2h 10m Drama,Mystery,Sci-Fi   nm0413168,nm0000288,nm0000323,nm0005305,nm0356017,nm0424060,nm2195817
+42tt2582802 Whiplash   2014https://www.imdb.com/title/tt2582802 883,875   8.5R   1h 46m Drama,Music   nm1886602,nm0799777,nm0001663,nm2552034,nm3271473,nm4336119,nm0611889
+43tt0034583 Casablanca 1942https://www.imdb.com/title/tt0034583 577,758   8.5PG   1h 42m Drama,Romance,War   nm0000007,nm0000006,nm0002134,nm0001647,nm0891998,nm0002113,nm0000048
+            Grave of the                                                       Not
+44tt0095327 Fireflies    1988https://www.imdb.com/title/tt0095327 282,456   8.5Rated   1h 29m Animation,Drama,War   nm0851302,nm0794186,nm0794002,nm0945312,nm12329614,nm10735745,nm12329
+                                                                            Not
+45tt0056058 Harakiri   1962https://www.imdb.com/title/tt0056058 59,327   8.6Rated   2h 13m Action,Drama,Mystery   nm0619938,nm0410968,nm0412615,nm0848533,nm0592756,nm0368049,nm0766225
+            The
+46tt1675434 Intouchables 2011https://www.imdb.com/title/tt1675434 870,273   8.5R   1h 52m Biography,Comedy,Drama   nm0167388,nm1082477,nm0494504,nm1109153,nm1525639,nm0597042,nm2031248
+            Modern
+47tt0027977 Times    1936https://www.imdb.com/title/tt0027977 245,671   8.5G   1h 27m Comedy,Drama,Romance   nm0000122,nm0002104,nm0074788,nm0761866,nm0174682,nm0003424,nm0090008
+            Once Upon
+            a Time in the
+48tt0064116 West          1968https://www.imdb.com/title/tt0064116 333,809   8.5PG-13   2h 45m Western   nm0001012,nm0000020,nm0001673,nm0000314,nm0275213,nm0832375,nm0834754
+            Cinema
+49tt0095765 Paradiso   1988https://www.imdb.com/title/tt0095765 264,969   8.5PG   2h 35m Drama,Romance   nm0041066,nm0134073,nm0199774,nm0347842,nm0502813,nm0535991,nm0620919
+            Rear
+50tt0047396 Window   1954https://www.imdb.com/title/tt0047396 497,077   8.5PG   1h 52m Mystery,Thriller   nm0000071,nm0000038,nm0179819,nm0728812,nm0000994,nm0263393,nm0046564
+51tt0078748 Alien   1979https://www.imdb.com/title/tt0078748 892,980   8.5R   1h 57m Horror,Sci-Fi   nm0000643,nm0000244,nm0001021,nm0001765,nm0000457,nm0000453,nm0001433
+52tt0021749 City Lights   1931https://www.imdb.com/title/tt0021749 186,874   8.5G   1h 27m Comedy,Drama,Romance   nm0156039,nm5681967,nm0616729,nm0305087,nm0003424,nm0000122,nm0008609
+            Apocalypse
+53tt0078788 Now        1979https://www.imdb.com/title/tt0078788 675,280   8.5R   2h 27m Drama,Mystery,War   nm0000008,nm0000640,nm0000380,nm0002078,nm0098734,nm0000401,nm0355278
+54tt0209144 Memento   2000https://www.imdb.com/title/tt0209144 1,250,995   8.4R   1h 53m Mystery,Thriller   nm0001602,nm0005251,nm0001592,nm0095478,nm0270383,nm0289080,nm0864997
+            Django
+55tt1853728 Unchained   2012https://www.imdb.com/title/tt1853728 1,576,491   8.4R   2h 45m Drama,Western   nm0004937,nm0910607,nm0000138,nm0913488,nm0000168,nm0324658,nm0160550
+            Raiders of
+56tt0082971 the Lost Ark 1981https://www.imdb.com/title/tt0082971 976,471   8.4PG   1h 55m Action,Adventure   nm0000148,nm0000261,nm0293550,nm0479951,nm0722636,nm0001186,nm0000547
+57tt0910970 WALL·E   2008https://www.imdb.com/title/tt0910970 1,129,098   8.4G   1h 38m Animation,Adventure,Family nm0123785,nm2264184,nm0307531,nm0929609,nm3050831,nm0001652,nm0001562
+            The Lives of
+58tt0405094 Others       2006https://www.imdb.com/title/tt0405094 393,367   8.4R   2h 17m Drama,Mystery,Thriller   nm0311476,nm0618057,nm0462407,nm0876300,nm0857998,nm0061830,nm0459087
+59tt0043014 Sunset Blvd. 1950https://www.imdb.com/title/tt0043014 224,680   8.4Passed 1h 50m Drama,Film-Noir   nm0000034,nm0841797,nm0002233,nm0647970,nm0163939,nm0332221,nm0916131
+            Paths of
+60tt0050825 Glory      1957https://www.imdb.com/title/tt0050825 200,117   8.4Approved1h 28m Drama,War   nm0000018,nm0576127,nm0579663,nm0534317,nm0606998,nm0027323,nm0877185
+61tt0081505 The Shining 1980https://www.imdb.com/title/tt0081505 1,035,594   8.4R   2h 26m Drama,Horror   nm0000197,nm0001167,nm0515950,nm0001079,nm0625167,nm0832104,nm0877185
+            The Great
+62tt0032553 Dictator    1940https://www.imdb.com/title/tt0032553 226,622   8.4G   2h 5m Comedy,Drama,War   nm0000122,nm0642988,nm0306786,nm0199787,nm0317970,nm0354916,nm0214924
+            Avengers:
+63tt4154756 Infinity War 2018https://www.imdb.com/title/tt4154756 1,101,309   8.4PG-13   2h 29m Action,Adventure,Sci-Fi   nm0000375,nm1165110,nm0749263,nm0262635,nm0424060,nm0000332,nm1212722
+            Witness for
+            the
+64tt0051201 Prosecution 1957https://www.imdb.com/title/tt0051201 127,648   8.4Approved1h 56m Crime,Drama,Mystery   nm0000061,nm0000017,nm0001452,nm0006471,nm0002369,nm0199787,nm0938052
+65tt0090605 Aliens   1986https://www.imdb.com/title/tt0090605 725,492   8.4R   2h 17m Action,Adventure,Sci-Fi   nm0000244,nm0001343,nm0000299,nm0001663,nm0000448,nm0000200,nm0394054
+            Spider-Man:
+            Into the
+66tt4633694 Spider-Verse2018https://www.imdb.com/title/tt4633694 545,563   8.4PG   1h 57m Animation,Action,Adventure nm4271336,nm2159926,nm2794962,nm0991810,nm3109964,nm0005499,nm0904967
+            American
+67tt0169547 Beauty     1999https://www.imdb.com/title/tt0169547 1,164,109   8.4R   2h 2m Drama   nm0000228,nm0000906,nm0000301,nm0004747,nm0002546,nm0001251,nm0005049
+            Dr.
+            Strangelove
+            or: How I
+            Learned to
+            Stop
+            Worrying
+            and Love the
+68tt0057012 Bomb         1964https://www.imdb.com/title/tt0057012 495,942   8.4PG   1h 35m Comedy,War   nm0000634,nm0001715,nm0001330,nm0943978,nm0001620,nm0119988,nm0000469
+            The Dark
+69tt1345836 Knight Rises 2012https://www.imdb.com/title/tt1345836 1,722,652   8.4PG-13   2h 44m Action,Drama,Thriller   nm0000288,nm0000198,nm0362766,nm0330687,nm0004266,nm0182839,nm0000151
+70tt0364569 Oldboy   2003https://www.imdb.com/title/tt0364569 588,066   8.4R   2h   Action,Drama,Mystery   nm0158856,nm0949167,nm1367246,nm1366028,nm1203041,nm1367681,nm1800416
+            Inglourious
+71tt0361748 Basterds    2009https://www.imdb.com/title/tt0361748 1,470,409   8.3R   2h 33m Adventure,Drama,War   nm0000093,nm0491259,nm0910607,nm0744834,nm1055413,nm1208167,nm0117709
+72tt0086879 Amadeus   1984https://www.imdb.com/title/tt0086879 405,763   8.4PG   2h 40m Biography,Drama,Music   nm0000719,nm0001371,nm0000931,nm0234541,nm0001003,nm0002056,nm0000470
+73tt2380307 Coco   2017https://www.imdb.com/title/tt2380307 521,455   8.4PG   1h 45m Animation,Adventure,Comedynm5645519,nm0305558,nm0000973,nm0005513,nm0896149,nm0131781,nm0000778
+74tt0114709 Toy Story   1995https://www.imdb.com/title/tt0114709 1,005,591   8.3G   1h 21m Animation,Adventure,Comedynm0000158,nm0000741,nm0725543,nm0001815,nm0001728,nm0001652,nm0001633
+75tt7286456 Joker   2019https://www.imdb.com/title/tt7286456 1,320,088   8.4R   2h 2m Crime,Drama,Thriller   nm0001618,nm0000134,nm5939164,nm0175814,nm0191442,nm0924154,nm0131966
+76tt0112573 Braveheart 1995https://www.imdb.com/title/tt0112573 1,046,807   8.4R   2h 58m Biography,Drama,History   nm0732703,nm0492566,nm0625729,nm0181920,nm0569336,nm0848100,nm0918571
+77tt0082096 The Boat   1981https://www.imdb.com/title/tt0082096 253,534   8.4   2h 29m Drama,War   nm0001638,nm0344963,nm0921044,nm0071059,nm0783847,nm0851427,nm0496441
+            Avengers:
+78tt4154796 Endgame     2019https://www.imdb.com/title/tt4154796 1,155,245   8.4PG-13   3h 1m Action,Adventure,Drama   nm0000375,nm0262635,nm0749263,nm1165110,nm0424060,nm0719637,nm0000332
+            Princess
+79tt0119698 Mononoke   1997https://www.imdb.com/title/tt0119698 400,859   8.3PG-13   2h 14m Animation,Action,Adventure nm0001082,nm0000671,nm0000378,nm0224007,nm0000132,nm0218555,nm0000586
+            Once Upon
+            a Time in
+80tt0087843 America   1984https://www.imdb.com/title/tt0087843 356,429   8.3R   3h 49m Crime,Drama   nm0000134,nm0000249,nm0001527,nm0001852,nm0001839,nm0949350,nm0000582
+            Good Will
+81tt0119217 Hunting     1997https://www.imdb.com/title/tt0119217 987,400   8.3R   2h 6m Drama,Romance   nm0000354,nm0000255,nm0001745,nm0585906,nm0538259,nm0565494,nm0000729
+82tt5311514 Your Name. 2016https://www.imdb.com/title/tt5311514 276,854   8.4TV-PG   1h 46m Animation,Drama,Fantasy   nm1126340,nm4759838,nm6954008,nm2976492,nm4858403,nm5481013,nm4411190
+            Singin' in the
+83tt0045152 Rain           1952https://www.imdb.com/title/tt0045152 246,258   8.3G   1h 43m Comedy,Musical,Romance   nm0000037,nm0640307,nm0001666,nm0353405,nm0593612,nm0001998,nm0288830
+84tt1187043 3 Idiots   2009https://www.imdb.com/title/tt1187043 406,004   8.4PG-13   2h 50m Comedy,Drama   nm0451148,nm0004626,nm0534856,nm0430817,nm1437925,nm1224082,nm1587175
+            Requiem for
+85tt0180093 a Dream     2000https://www.imdb.com/title/tt0180093 852,453   8.3Unrated 1h 42m Drama   nm0000995,nm0001467,nm0000124,nm0005541,nm0001520,nm0489837,nm0476040
+            High and                                                        Not
+86tt0057565 Low        1963https://www.imdb.com/title/tt0057565 46,714   8.4Rated   2h 23m Crime,Drama,Mystery   nm0001536,nm0619938,nm0434593,nm0586227,nm0454087,nm0411146,nm0441399
+87tt0435761 Toy Story 3 2010https://www.imdb.com/title/tt0435761 845,636   8.3G   1h 43m Animation,Adventure,Comedynm0000158,nm0000741,nm0000349,nm0000885,nm0725543,nm0000474,nm0001728
+88tt8267604 Capernaum 2018https://www.imdb.com/title/tt8267604 92,871   8.4R   2h 6m Drama   nm9862858,nm9862859,nm9862860,nm10201625,nm5765775,nm10201626,nm10201
+            Star Wars:
+            Episode VI -
+            Return of the
+89tt0086190 Jedi          1983https://www.imdb.com/title/tt0086190 1,065,020   8.3PG   2h 11m Action,Adventure,Fantasy   nm0000434,nm0000148,nm0000402,nm0001850,nm0000355,nm0562679,nm0789970
+            2001: A
+            Space
+90tt0062622 Odyssey   1968https://www.imdb.com/title/tt0062622 677,258   8.3G   2h 29m Adventure,Sci-Fi   nm0001158,nm0516972,nm0843213,nm0725220,nm0744436,nm0879239,nm0064235
+            Eternal
+            Sunshine of
+            the Spotless
+91tt0338013 Mind         2004https://www.imdb.com/title/tt0338013 1,020,184   8.3R   1h 48m Drama,Romance,Sci-Fi   nm0000120,nm0000701,nm0004423,nm0000704,nm0752876,nm0749263,nm0011038
+            Reservoir
+92tt0105236 Dogs        1992https://www.imdb.com/title/tt0105236 1,031,010   8.3R   1h 39m Crime,Thriller   nm0000172,nm0000619,nm0000514,nm0001606,nm0000114,nm0862937,nm0112207
+            Come and                                                        Not
+93tt0091251 See        1985https://www.imdb.com/title/tt0091251 83,154   8.4Rated   2h 22m Drama,Thriller,War   nm0470385,nm0592500,nm0490708,nm0046575,nm2496074,nm0520660,nm0704859
+94tt2106476 The Hunt   2012https://www.imdb.com/title/tt2106476 336,241   8.3R   1h 55m Drama   nm0586568,nm0488917,nm5038871,nm5039026,nm0937622,nm0368482,nm1046521
+95tt0033467 Citizen Kane 1941https://www.imdb.com/title/tt0033467 446,582   8.3PG   1h 59m Drama,Mystery   nm0001072,nm0173827,nm0001547,nm0913095,nm0172615,nm0762557,nm0806041
+96tt0022100 M   1931https://www.imdb.com/title/tt0022100 160,158   8.3Passed 1h 39m Crime,Mystery,Thriller   nm0000048,nm0927145,nm0484737,nm0921532,nm0519765,nm0345073,nm0323479
+            Lawrence of
+97tt0056172 Arabia      1962https://www.imdb.com/title/tt0056172 297,811   8.3Approved3h 38m Adventure,Biography,Drama nm0000564,nm0000027,nm0000063,nm0370144,nm0001725,nm0001207,nm0703033
+            North by
+98tt0053125 Northwest   1959https://www.imdb.com/title/tt0053125 331,797   8.3Approved2h 16m Action,Adventure,Mystery   nm0000026,nm0001693,nm0000051,nm0484829,nm0001991,nm0404360,nm0643211
+                                                                         Not
+99tt0044741 Ikiru   1952https://www.imdb.com/title/tt0044741 80,354   8.3Rated   2h 23m Drama   nm0793766,nm0385443,nm0848984,nm0156928,nm0643887,nm0383091,nm0945253
+100tt0052357 Vertigo   1958https://www.imdb.com/title/tt0052357 407,006   8.3PG   2h 8m Mystery,Romance,Thriller   nm0000071,nm0001571,nm0000895,nm0375738,nm0428216,nm0047450,nm0179289
+             The
+101tt0053604 Apartment   1960https://www.imdb.com/title/tt0053604 184,423   8.3Approved2h 5m Comedy,Drama,Romance   nm0000493,nm0000511,nm0534045,nm0001827,nm0472816,nm0507081,nm0390516
+102tt0211915 Amélie   2001https://www.imdb.com/title/tt0211915 763,676   8.3R   2h 2m Comedy,Romance   nm0851582,nm0440913,nm0749363,nm0186677,nm0581014,nm0213354,nm0597042
+             A Clockwork
+103tt0066921 Orange      1971https://www.imdb.com/title/tt0066921 839,209   8.3X   2h 16m Crime,Sci-Fi   nm0000532,nm0535861,nm0060988,nm0165049,nm0166979,nm0180920,nm0240268
+             Double
+104tt0036775 Indemnity   1944https://www.imdb.com/title/tt0036775 159,388   8.3Passed 1h 47m Crime,Drama,Film-Noir   nm0534045,nm0001766,nm0000064,nm0356004,nm0372742,nm0694631,nm0056477
+             Full Metal
+105tt0093058 Jacket       1987https://www.imdb.com/title/tt0093058 750,781   8.3R   1h 56m Drama,War   nm0000546,nm0000284,nm0000352,nm0000388,nm0002126,nm0397441,nm0397124
+106tt0086250 Scarface   1983https://www.imdb.com/title/tt0086250 853,851   8.3R   2h 50m Crime,Drama   nm0000199,nm0000874,nm0000201,nm0001512,nm0005162,nm0173125,nm0000719
+107tt8503618 Hamilton   2020https://www.imdb.com/title/tt8503618 98,498   8.4PG-13   2h 40m Biography,Drama,History   nm4377526,nm0325989,nm2676147,nm1862960,nm5093499,nm0592135,nm1502434
+108tt1255953 Incendies   2010https://www.imdb.com/title/tt1255953 181,146   8.3R   2h 11m Drama,Mystery   nm1323233,nm4841645,nm0320721,nm0246386,nm0309945,nm0108436,nm0044073
+109tt0113277 Heat   1995https://www.imdb.com/title/tt0113277 664,714   8.3R   2h 50m Action,Crime,Drama   nm0000199,nm0000134,nm0000174,nm0000685,nm0001744,nm0893204,nm0000312
+             To Kill a
+110tt0056592 Mockingbird 1962https://www.imdb.com/title/tt0056592 319,590   8.3Approved2h 9m Crime,Drama   nm0000060,nm0576345,nm0653942,nm0614677,nm0925418,nm0676349,nm0262745
+111tt0070735 The Sting   1973https://www.imdb.com/title/tt0070735 266,706   8.3PG   2h 9m Comedy,Crime,Drama   nm0000056,nm0000602,nm0001727,nm0001164,nm0001827,nm0107281,nm0332390
+112tt1049413 Up   2009https://www.imdb.com/title/tt1049413 1,056,335   8.3PG   1h 36m Animation,Adventure,Comedynm0000799,nm0001626,nm2973712,nm0677037,nm0005148,nm0710019,nm0001652
+             Top Gun:
+113tt1745960 Maverick   2022https://www.imdb.com/title/tt1745960 541,686   8.3PG-13   2h 10m Action,Drama   nm0000129,nm0000174,nm1886602,nm0000124,nm1506981,nm0358316,nm0663174
+114tt1832382 A Separation2011https://www.imdb.com/title/tt1832382 247,485   8.3PG-13   2h 3m Drama   nm1818216,nm0368689,nm4299147,nm1486911,nm4299072,nm0953423,nm4297889
+                                                                                Not
+115tt0017136 Metropolis   1927https://www.imdb.com/title/tt0017136 176,619   8.3Rated   2h 33m Drama,Sci-Fi   nm0002154,nm0297054,nm0459030,nm0003248,nm0519765,nm0084430,nm0313447
+116tt0075314 Taxi Driver 1976https://www.imdb.com/title/tt0075314 848,183   8.2R   1h 54m Crime,Drama   nm0007958,nm0012524,nm0034519,nm0034082,nm0043039,nm0001967,nm0000983
+             L.A.
+117tt0119488 Confidential 1997https://www.imdb.com/title/tt0119488 588,331   8.2R   2h 18m Crime,Drama,Mystery   nm0000228,nm0000128,nm0001602,nm0000342,nm0000107,nm0000362,nm0000657
+118tt0095016 Die Hard   1988https://www.imdb.com/title/tt0095016 893,737   8.2R   2h 12m Action,Thriller   nm0000246,nm0000889,nm0001817,nm0322339,nm0924636,nm0040472,nm0000952
+119tt0208092 Snatch   2000https://www.imdb.com/title/tt0208092 865,529   8.2R   1h 42m Comedy,Crime   nm0011744,nm0065307,nm0065874,nm0001971,nm0118473,nm0134774,nm0172577
+             Indiana
+             Jones and
+             the Last
+120tt0097576 Crusade     1989https://www.imdb.com/title/tt0097576 763,451   8.2PG-13   2h 7m Action,Adventure   nm0000148,nm0000125,nm0001186,nm0233145,nm0722636,nm0002103,nm0000203
+             Bicycle                                                        Not
+121tt0040522 Thieves   1948https://www.imdb.com/title/tt0040522 165,771   8.3Rated   1h 29m Drama   nm0536009,nm0821543,nm0136794,nm0022821,nm0759031,nm0157058,nm0031509
+             Like Stars on
+122tt0986264 Earth        2007https://www.imdb.com/title/tt0986264 196,015   8.3PG   2h 45m Drama,Family   nm2594301,nm0451148,nm1538116,nm1479650,nm3222518,nm2540053,nm2896015
+123tt8579674   19172019https://www.imdb.com/title/tt8579674 606,899   8.2R   1h 59m Action,Drama,War   nm2835616,nm1126657,nm0990547,nm0000147,nm2553988,nm5121393,nm4078775
+124tt0363163 Downfall   2004https://www.imdb.com/title/tt0363163 359,460   8.2R   2h 36m Biography,Drama,History   nm0004486,nm0487884,nm0362896,nm0559890,nm0477810,nm0272224,nm0075321
+                                                                            Not
+125tt5074352 Dangal   2016https://www.imdb.com/title/tt5074352 194,680   8.3Rated   2h 41m Action,Biography,Drama   nm0451148,nm0760778,nm7621667,nm2799219,nm6269780,nm7621668,nm7621669
+             For a Few
+126tt0059578 Dollars More 1965https://www.imdb.com/title/tt0059578 260,221   8.2R   2h 12m Western   nm0000142,nm0001812,nm0002231,nm0472756,nm0685559,nm0001428,nm8621588
+             Batman
+127tt0372784 Begins   2005https://www.imdb.com/title/tt0372784 1,486,582   8.2PG-13   2h 20m Action,Crime,Drama   nm0000288,nm0000323,nm0000553,nm0005017,nm0000198,nm0614165,nm0929489
+128tt0012349 The Kid   1921https://www.imdb.com/title/tt0012349 128,080   8.3Passed 1h 8m Comedy,Drama,Family   nm0000122,nm0001067,nm0588033,nm0701012,nm0042317,nm0047800,nm0048798
+             Some Like It
+129tt0053291 Hot          1959https://www.imdb.com/title/tt0053291 270,788   8.2Passed 2h 1m Comedy,Music,Romance   nm0000054,nm0000348,nm0000493,nm0706368,nm0002285,nm0113873,nm0675490
+130tt10272386The Father 2020https://www.imdb.com/title/tt10272386161,650   8.2PG-13   1h 37m Drama,Mystery   nm1469236,nm0000164,nm0309693,nm0931404,nm1782299,nm0001722,nm0223499
+             All About
+131tt0042192 Eve         1950https://www.imdb.com/title/tt0042192 132,775   8.2Passed 2h 18m Drama   nm0000012,nm0000879,nm0001695,nm0002141,nm0581282,nm0549280,nm0711855
+             The Wolf of
+132tt0993846 Wall Street 2013https://www.imdb.com/title/tt0993846 1,437,576   8.2R   3h   Biography,Comedy,Crime   nm0000138,nm1706767,nm3053338,nm0000190,nm0151419,nm0001661,nm1256532
+133tt6966692 Green Book 2018https://www.imdb.com/title/tt6966692 505,845   8.2PG-13   2h 10m Biography,Comedy,Drama   nm0001557,nm0991810,nm0004802,nm1724319,nm1221253,nm2273391,nm0126260
+             Judgment at
+134tt0055031 Nuremberg 1961https://www.imdb.com/title/tt0055031 78,828   8.3Approved2h 59m Drama,War   nm0000075,nm0000044,nm0001847,nm0000017,nm0001703,nm0000023,nm0001050
+135tt0089881 Ran   1985https://www.imdb.com/title/tt0089881 127,572   8.2R   2h 42m Action,Drama,War   nm0619938,nm0855417,nm0628704,nm0753480,nm7014801,nm0594523,nm0407030
+136tt0112641 Casino   1995https://www.imdb.com/title/tt0112641 528,069   8.2R   2h 58m Crime,Drama   nm0000134,nm0000232,nm0000582,nm0000249,nm0725543,nm0454418,nm0001629
+             The Truman
+137tt0120382 Show       1998https://www.imdb.com/title/tt0120382 1,100,115   8.2PG   1h 43m Comedy,Drama   nm0000120,nm0001473,nm0001187,nm0001523,nm0852466,nm0216507,nm1405242
+             Pan's
+138tt0457430 Labyrinth   2006https://www.imdb.com/title/tt0457430 675,640   8.2R   1h 58m Drama,Fantasy,War   nm1419440,nm0530365,nm0893941,nm0427964,nm0317725,nm0029962,nm1254805
+             There Will
+139tt0469494 Be Blood     2007https://www.imdb.com/title/tt0469494 595,129   8.2R   2h 38m Drama   nm0000358,nm2872491,nm2872058,nm2871845,nm2872133,nm0215916,nm2871955
+140tt0105695 Unforgiven 1992https://www.imdb.com/title/tt0105695 416,587   8.2R   2h 10m Drama,Western   nm0000142,nm0000432,nm0000151,nm0001321,nm0941316,nm0007210,nm0004920
+             The Sixth
+141tt0167404 Sense       1999https://www.imdb.com/title/tt0167404 1,001,996   8.2PG-13   1h 47m Drama,Mystery,Thriller   nm0000246,nm0005286,nm0001057,nm0931404,nm0605080,nm0005531,nm0848534
+             Shutter
+142tt1130884 Island    2010https://www.imdb.com/title/tt1130884 1,338,496   8.2R   2h 18m Mystery,Thriller   nm0000138,nm0749263,nm0001426,nm0001884,nm0931329,nm0607865,nm0165101
+             A Beautiful
+143tt0268978 Mind        2001https://www.imdb.com/title/tt0268978 941,601   8.2PG-13   2h 15m Biography,Drama   nm0000128,nm0000438,nm0000124,nm0001626,nm0079273,nm0004965,nm0524197
+             Jurassic
+144tt0107290 Park       1993https://www.imdb.com/title/tt0107290 1,001,679   8.2PG-13   2h 7m Action,Adventure,Sci-Fi   nm0000554,nm0000368,nm0000156,nm0000277,nm0669629,nm0274684,nm0000703
+145tt0055630 Yojimbo   1961https://www.imdb.com/title/tt0055630 124,578   8.2Not     1h 50m Action,Drama,Thriller   nm0001536,nm0619938,nm0875362,nm0945222,nm0441961,nm0442951,nm0793766
+                                                                             Rated
+             The
+             Treasure of
+             the Sierra
+146tt0040897 Madre       1948https://www.imdb.com/title/tt0040897 126,496   8.2Passed 2h 6m Adventure,Drama,Western   nm0000007,nm0404158,nm0392529,nm0071636,nm0533692,nm0066166,nm0815495
+             Monty
+             Python and
+             the Holy
+147tt0071853 Grail      1975https://www.imdb.com/title/tt0071853 547,240   8.2PG   1h 31m Adventure,Comedy,Fantasy nm0001037,nm0000092,nm0001385,nm0000416,nm0001402,nm0001589,nm0095665
+             The Great
+148tt0057115 Escape      1963https://www.imdb.com/title/tt0057115 247,453   8.2Approved2h 52m Adventure,Drama,History   nm0000537,nm0001258,nm0000277,nm0232019,nm0000314,nm0000587,nm0000336
+             No Country
+149tt0477348 for Old Men 2007https://www.imdb.com/title/tt0477348 987,934   8.2R   2h 2m Crime,Drama,Thriller   nm0000169,nm0000849,nm0000982,nm0000437,nm0531808,nm0226813,nm0002128
+             Kill Bill: Vol.
+150tt0266697 1               2003https://www.imdb.com/title/tt0266697 1,128,256   8.2R   1h 51m Action,Crime,Drama   nm0000235,nm0005154,nm0000407,nm0000435,nm0001016,nm0000514,nm0237838
+                                                                            Not
+151tt0042876 Rashomon 1950https://www.imdb.com/title/tt0042876 170,943   8.2Rated   1h 28m Crime,Drama,Mystery   nm0001536,nm0477553,nm0605270,nm0793766,nm0156928,nm0879918,nm0393352
+             Spider-Man:
+             No Way
+152tt10872600Home        2021https://www.imdb.com/title/tt10872600776,160   8.2PG-13   2h 28m Action,Adventure,Fantasy   nm4043618,nm3918035,nm1212722,nm8188622,nm0269463,nm0004937,nm0000353
+153tt0084787 The Thing   1982https://www.imdb.com/title/tt0084787 432,488   8.2R   1h 49m Horror,Mystery,Sci-Fi   nm0000621,nm0000979,nm0141953,nm0166359,nm0202966,nm0246004,nm0356251
+             Finding
+154tt0266543 Nemo      2003https://www.imdb.com/title/tt0266543 1,055,095   8.2G   1h 40m Animation,Adventure,Comedynm0000983,nm0001122,nm1071252,nm0000353,nm0004951,nm0005049,nm0671721
+             The
+             Elephant
+155tt0080678 Man        1980https://www.imdb.com/title/tt0080678 244,992   8.2PG   2h 4m Biography,Drama   nm0000164,nm0000457,nm0000843,nm0000024,nm0384908,nm0428086,nm0255573
+156tt0071315 Chinatown   1974https://www.imdb.com/title/tt0071315 331,260   8.2R   2h 10m Drama,Mystery,Thriller   nm0000197,nm0001159,nm0001379,nm0520164,nm0384916,nm0959022,nm0002663
+157tt0081398 Raging Bull 1980https://www.imdb.com/title/tt0081398 358,918   8.2R   2h 9m Biography,Drama,Sport   nm0000134,nm0001550,nm0000582,nm0898634,nm0170225,nm0757854,nm0002869
+             V for
+158tt0434409 Vendetta   2005https://www.imdb.com/title/tt0434409 1,131,766   8.2R   2h 12m Action,Drama,Sci-Fi   nm0000204,nm0915989,nm0001653,nm0000410,nm0000457,nm0683116,nm0001291
+             Gone with
+159tt0031381 the Wind    1939https://www.imdb.com/title/tt0031381 319,434   8.2Passed 3h 58m Drama,Romance,War   nm0593775,nm0641966,nm0000046,nm0450810,nm0751946,nm0001660,nm0186347
+             Lock, Stock
+             and Two
+             Smoking
+160tt0120735 Barrels     1998https://www.imdb.com/title/tt0120735 589,353   8.2R   1h 47m Action,Comedy,Crime   nm0002076,nm0002077,nm0602941,nm0005458,nm0533599,nm0746583,nm0546017
+161tt2096673 Inside Out   2015https://www.imdb.com/title/tt2096673 725,352   8.2PG   1h 35m Animation,Adventure,Comedynm0688132,nm0809613,nm0454236,nm0352778,nm0085400,nm1411676,nm4609731
+             Dial M for
+162tt0046912 Murder       1954https://www.imdb.com/title/tt0046912 178,568   8.2PG   1h 45m Crime,Thriller   nm0001537,nm0000038,nm0191950,nm0002369,nm0206060,nm0110063,nm0019996
+             The Secret
+163tt1305806 in Their Eyes2009https://www.imdb.com/title/tt1305806 212,280   8.2R   2h 9m Drama,Mystery,Romance   nm0897845,nm0201857,nm3587952,nm0706567,nm1024390,nm3588006,nm3587916
+             Howl's
+             Moving
+164tt0347149 Castle   2004https://www.imdb.com/title/tt0347149 403,630   8.2PG   1h 59m Animation,Adventure,Family nm0047962,nm0454120,nm0594271,nm0309107,nm1126340,nm0410659,nm1126978
+             Three
+             Billboards
+             Outside
+             Ebbing,
+165tt5027774 Missouri     2017https://www.imdb.com/title/tt5027774 518,061   8.1R   1h 55m Comedy,Crime,Drama   nm0000531,nm2655177,nm0174403,nm0005377,nm6019128,nm0676370,nm2888524
+             The Bridge
+             on the River
+166tt0050212 Kwai         1957https://www.imdb.com/title/tt0050212 223,494   8.2PG   2h 41m Adventure,Drama,War   nm0000034,nm0000027,nm0370144,nm0370564,nm0232019,nm0395012,nm0603682
+167tt0117951 Trainspotting1996https://www.imdb.com/title/tt0117951 694,832   8.1R   1h 33m Drama   nm0000191,nm0001971,nm0001538,nm0571727,nm0001015,nm0531808,nm0611932
+168tt1392214 Prisoners   2013https://www.imdb.com/title/tt1392214 731,875   8.1R   2h 33m Crime,Drama,Mystery   nm0413168,nm0350453,nm0205626,nm0004742,nm0005024,nm0502425,nm0200452
+169tt1291584 Warrior   2011https://www.imdb.com/title/tt1291584 478,019   8.2PG-13   2h 20m Action,Drama,Sport   nm0249291,nm0362766,nm0000560,nm0607185,nm0342029,nm0242656,nm0380073
+170tt0116282 Fargo   1996https://www.imdb.com/title/tt0116282 686,205   8.1R   1h 38m Crime,Thriller   nm0000513,nm0000114,nm0001780,nm0749021,nm0696193,nm0219301,nm0396828
+171tt1205489 Gran Torino 2008https://www.imdb.com/title/tt1205489 783,124   8.1R   1h 56m Drama   nm0000142,nm1542291,nm3057402,nm3115704,nm0355083,nm0400625,nm2439111
+             My Neighbor
+172tt0096283 Totoro      1988https://www.imdb.com/title/tt0096283 346,498   8.1G   1h 26m Animation,Comedy,Family   nm0383022,nm0757076,nm0411790,nm0793585,nm0457498,nm0847054,nm1361762
+             Catch Me If
+173tt0264464 You Can     2002https://www.imdb.com/title/tt0264464 1,002,869   8.1PG-13   2h 21m Biography,Crime,Drama   nm0000138,nm0000158,nm0000686,nm0000640,nm0000882,nm0010736,nm0000981
+             Million Dollar
+174tt0405159 Baby           2004https://www.imdb.com/title/tt0405159 694,061   8.1PG-13   2h 12m Drama,Sport   nm0000142,nm0005476,nm0000151,nm0059431,nm1591496,nm0726900,nm0639928
+             Children of
+175tt0118849 Heaven      1997https://www.imdb.com/title/tt0118849 75,814   8.2PG   1h 29m Drama,Family,Sport   nm0619870,nm0268488,nm0781245,nm0415412,nm0764710,nm0592395,nm0706325
+             Blade
+176tt0083658 Runner   1982https://www.imdb.com/title/tt0083658 779,533   8.1R   1h 57m Action,Drama,Sci-Fi   nm0000148,nm0000707,nm0000442,nm0001579,nm0001826,nm0000435,nm0761836
+             The Gold
+177tt0015864 Rush       1925https://www.imdb.com/title/tt0015864 112,833   8.1Passed 1h 35m Adventure,Comedy,Drama   nm0000122,nm0841501,nm0615306,nm0074788,nm0906618,nm0354913,nm1033900
+178tt4729430 Klaus   2019https://www.imdb.com/title/tt4729430 162,886   8.2PG   1h 36m Animation,Adventure,Comedynm0005403,nm0799777,nm0429069,nm0766005,nm10520267,nm0655053,nm000517
+             Before
+179tt0112471 Sunrise   1995https://www.imdb.com/title/tt0112471 315,432   8.1R   1h 41m Drama,Romance   nm0000160,nm0000365,nm0248600,nm0702541,nm0115690,nm0748239,nm0542278
+             Harry Potter
+             and the
+             Deathly
+             Hallows:
+180tt1201607 Part 2       2011https://www.imdb.com/title/tt1201607 889,002   8.1PG-13   2h 10m Adventure,Family,Fantasy   nm0000146,nm0002091,nm0000614,nm0705356,nm0342488,nm0914612,nm2121541
+             12 Years a
+181tt2024544 Slave      2013https://www.imdb.com/title/tt2024544 709,077   8.1R   2h 14m Biography,Drama,History   nm0252230,nm4833412,nm6003176,nm0061262,nm1788122,nm0779427,nm4832920
+             On the
+182tt0047296 Waterfront   1954https://www.imdb.com/title/tt0047296 157,105   8.1Approved1h 48m Crime,Drama,Thriller   nm0000008,nm0001500,nm0002011,nm0001768,nm0377416,nm0002063,nm0922599
+183tt0052618 Ben-Hur   1959https://www.imdb.com/title/tt0052618 242,433   8.1G   3h 32m Adventure,Drama   nm0000032,nm0370144,nm0361823,nm0000963,nm0341518,nm0779549,nm0640732
+             The Grand
+             Budapest
+184tt2278388 Hotel       2014https://www.imdb.com/title/tt2278388 824,947   8.1R   1h 39m Adventure,Comedy,Crime   nm0000146,nm0000719,nm0023832,nm0004778,nm0000353,nm0000156,nm0000172
+185tt2267998 Gone Girl   2014https://www.imdb.com/title/tt2267998 996,836   8.1R   2h 29m Drama,Mystery,Thriller   nm0000255,nm0683253,nm0000439,nm1347153,nm4689420,nm0225332,nm0297578
+             Wild                                                               Not
+186tt0050986 Strawberries 1957https://www.imdb.com/title/tt0050986 108,900   8.1Rated   1h 31m Drama,Romance   nm0803705,nm0000761,nm0862026,nm0085038,nm0454247,nm0839212,nm0084761
+187tt0017925 The General 1926https://www.imdb.com/title/tt0017925 92,925   8.1Passed 1h 7m Action,Adventure,Comedy   nm0000036,nm0533045,nm0147070,nm0267650,nm0089162,nm1070961,nm0807667
+             In the Name
+188tt0107207 of the Father 1993https://www.imdb.com/title/tt0107207 178,055   8.1R   2h 13m Biography,Crime,Drama   nm0188949,nm2535022,nm0000668,nm0380248,nm0000358,nm0112390,nm0564525
+             The Third
+189tt0041959 Man         1949https://www.imdb.com/title/tt0041959 173,749   8.1Approved1h 33m Film-Noir,Mystery,Thriller   nm0001072,nm0885098,nm0000080,nm0002145,nm0405977,nm0222074,nm0690691
+             Barry
+190tt0072684 Lyndon   1975https://www.imdb.com/title/tt0072684 171,559   8.1PG   3h 5m Adventure,Drama,War   nm0641939,nm0001943,nm0535861,nm0473228,nm0000925,nm0357864,nm0443811
+             The Deer
+191tt0077416 Hunter     1978https://www.imdb.com/title/tt0077416 343,516   8.1R   3h 3m Drama,War   nm0000134,nm0001030,nm0001698,nm0000686,nm0000658,nm0001169,nm0039625
+             Hacksaw
+192tt2119532 Ridge     2016https://www.imdb.com/title/tt2119532 538,727   8.1R   2h 19m Biography,Drama,History   nm1940449,nm1372922,nm5681790,nm5490799,nm7779500,nm7737266,nm0525281
+             The Wages                                                      Not
+193tt0046268 of Fear   1953https://www.imdb.com/title/tt0046268 62,539   8.2Rated   2h 11m Adventure,Drama,Thriller   nm0598971,nm0889024,nm0525793,nm0886870,nm0167243,nm0875630,nm0603916
+             Memories of                                                       Not
+194tt0353969 Murder      2003https://www.imdb.com/title/tt0353969 190,911   8.1Rated   2h 12m Crime,Drama,Mystery   nm0814280,nm1235292,nm1323287,nm1138201,nm1322404,nm1325300,nm3797160
+195tt0015324 Sherlock Jr. 1924https://www.imdb.com/title/tt0015324 51,440   8.2Passed 45m   Action,Comedy,Romance   nm0000036,nm0570230,nm0444172,nm0175068,nm0186440,nm0175075,nm0204639
+196tt3011894 Wild Tales   2014https://www.imdb.com/title/tt3011894 202,365   8.1R   2h 2m Comedy,Drama,Thriller   nm0334882,nm0555404,nm0897640,nm0823435,nm1254515,nm3004685,nm3692508
+             Mr. Smith
+             Goes to
+197tt0031679 Washington 1939https://www.imdb.com/title/tt0031679 116,787   8.1Passed 2h 9m Comedy,Drama   nm0000795,nm0000071,nm0001647,nm0036427,nm0452128,nm0593775,nm0657874
+             Mad Max:
+198tt1392190 Fury Road   2015https://www.imdb.com/title/tt1392190 1,016,838   8.1R   2h   Action,Adventure,Sci-Fi   nm0362766,nm0000234,nm0396558,nm0117412,nm2890541,nm0428923,nm2368789
+             Mary and                                                         Not
+199tt0978762 Max        2009https://www.imdb.com/title/tt0978762 179,400   8.1Rated   1h 32m Animation,Comedy,Drama   nm1814260,nm8784422,nm8784423,nm10928013,nm0400635,nm0230555,nm028705
+             The Seventh                                                       Not
+200tt0050976 Seal        1957https://www.imdb.com/title/tt0050976 187,934   8.1Rated   1h 36m Drama,Fantasy   nm0085038,nm0252345,nm0691555,nm0001884,nm0000761,nm0318676,nm0361458
+             How to Train
+201tt0892769 Your Dragon 2010https://www.imdb.com/title/tt0892769 751,071   8.1PG   1h 38m Animation,Action,Adventure nm0059431,nm0124930,nm0272401,nm1065229,nm1706767,nm2395586,nm2554352
+             Monsters,
+202tt0198781 Inc.        2001https://www.imdb.com/title/tt0198781 920,862   8.1G   1h 32m Animation,Adventure,Comedynm0000422,nm0000345,nm0316701,nm0000114,nm0000336,nm0000236,nm0677037
+203tt3170832 Room   2015https://www.imdb.com/title/tt3170832 426,926   8.1R   1h 58m Drama,Thriller   nm0488953,nm5016878,nm0108703,nm0187724,nm3223622,nm0330438,nm0115760
+204tt0073195 Jaws   1975https://www.imdb.com/title/tt0073195 615,988   8.1PG   2h 4m Adventure,Thriller   nm0001702,nm0001727,nm0000377,nm0308882,nm0358069,nm0331956,nm0469552
+             Dead Poets
+205tt0097165 Society    1989https://www.imdb.com/title/tt0097165 501,186   8.1PG   2h 8m Comedy,Drama   nm0000245,nm0000494,nm0000160,nm0001038,nm0360796,nm0476378,nm0749456
+             The Big
+206tt0118715 Lebowski   1998https://www.imdb.com/title/tt0118715 818,246   8.1R   1h 57m Comedy,Crime   nm0000313,nm0000422,nm0000194,nm0000114,nm0399663,nm0000450,nm0005346
+                                                                              Not
+207tt0046438 Tokyo Story 1953https://www.imdb.com/title/tt0046438 63,208   8.2Rated   2h 16m Drama   nm0753479,nm0383261,nm0361697,nm0837503,nm0945522,nm0594381,nm0434593
+             The Passion
+             of Joan of
+208tt0019254 Arc         1928https://www.imdb.com/title/tt0019254 56,448   8.2Passed 1h 54m Biography,Drama,History   nm0266029,nm0798564,nm0075551,nm0776914,nm0037625,nm0800302,nm0195956
+             Ford v
+209tt1950186 Ferrari   2019https://www.imdb.com/title/tt1950186 406,540   8.1PG-13   2h 32m Action,Biography,Drama   nm0000354,nm0000288,nm1256532,nm1495520,nm0524197,nm7415871,nm0504832
+             Hotel
+210tt0395169 Rwanda   2004https://www.imdb.com/title/tt0395169 359,447   8.1PG-13   2h 1m Biography,Drama,History   nm1796730,nm0000332,nm0239221,nm0434444,nm0450961,nm1566587,nm1791933
+211tt0075148 Rocky   1976https://www.imdb.com/title/tt0075148 587,888   8.1PG   2h   Drama,Sport   nm0000230,nm0001735,nm0949350,nm0001835,nm0580565,nm0203076,nm0818874
+212tt0091763 Platoon   1986https://www.imdb.com/title/tt0091763 419,386   8.1R   2h   Drama,War   nm0202966,nm0001845,nm0005331,nm0001143,nm0001525,nm0426047,nm0608601
+213tt0382932 Ratatouille   2007https://www.imdb.com/title/tt0382932 752,323   8.1G   1h 51m Animation,Adventure,Comedynm0652663,nm0000453,nm0738918,nm0001133,nm0812307,nm0000564,nm0004951
+214tt1895587 Spotlight   2015https://www.imdb.com/title/tt1895587 476,580   8.1R   2h 9m Biography,Crime,Drama   nm0749263,nm0000474,nm1046097,nm0000630,nm0805476,nm0195421,nm0001804
+             The
+215tt0088247 Terminator 1984https://www.imdb.com/title/tt0088247 876,163   8.1R   1h 47m Action,Sci-Fi   nm0000216,nm0000299,nm0000157,nm0934902,nm0000448,nm0001685,nm0609477
+216tt3315342 Logan   2017https://www.imdb.com/title/tt3315342 775,780   8.1R   2h 17m Action,Drama,Sci-Fi   nm0413168,nm0001772,nm6748436,nm2933542,nm0580351,nm0735300,nm0001290
+217tt0092005 Stand by Me 1986https://www.imdb.com/title/tt0092005 411,166   8.113+   1h 29m Adventure,Drama   nm0000696,nm0000203,nm0000397,nm0005278,nm0000662,nm0797150,nm0727037
+218tt1979320 Rush   2013https://www.imdb.com/title/tt1979320 486,172   8.1R   2h 3m Action,Biography,Drama   nm1165110,nm0117709,nm1312575,nm0487884,nm0269419,nm0129464,nm1754059
+219tt0074958 Network   1976https://www.imdb.com/title/tt0074958 161,819   8.1R   2h 1m Drama   nm0001159,nm0000034,nm0002075,nm0000380,nm0011741,nm0000885,nm0121386
+             Before
+220tt0381681 Sunset   2004https://www.imdb.com/title/tt0381681 269,934   8.1R   1h 20m Drama,Romance   nm0000160,nm0000365,nm0229943,nm1195302,nm0667416,nm1242048,nm1578895
+221tt0758758 Into the Wild 2007https://www.imdb.com/title/tt0758758 629,900   8.1R   2h 28m Adventure,Biography,Drama nm0386472,nm0001315,nm0000458,nm0540441,nm1619626,nm0001416,nm0000681
+             The Wizard
+222tt0032138 of Oz      1939https://www.imdb.com/title/tt0032138 406,068   8.1G   1h 42m Adventure,Family,Fantasy   nm0000023,nm0604656,nm0001961,nm0481618,nm0355095,nm0000992,nm0002121
+             The Best
+             Years of Our
+223tt0036868 Lives        1946https://www.imdb.com/title/tt0036868 66,194   8.1Approved2h 50m Drama,Romance,War   nm0001485,nm0545298,nm0000763,nm0942863,nm0562920,nm0640732,nm0005994
+             Pather                                                          Not
+224tt0048473 Panchali   1955https://www.imdb.com/title/tt0048473 34,328   8.3Rated   2h 5m Drama   nm0052333,nm0052334,nm0222447,nm0201871,nm0052343,nm0051846,nm0222480
+             Groundhog
+225tt0107048 Day       1993https://www.imdb.com/title/tt0107048 643,209   8.1PG   1h 41m Comedy,Drama,Fantasy   nm0000195,nm0000510,nm0254402,nm0864997,nm0236519,nm0313882,nm0665708
+226tt0070047 The Exorcist 1973https://www.imdb.com/title/tt0070047 415,311   8.1R   2h 2m Horror   nm0000995,nm0001884,nm0002011,nm0935345,nm0532290,nm0588553,nm0000304
+             To Be or Not
+227tt0035446 to Be        1942https://www.imdb.com/title/tt0035446 38,888   8.2Passed 1h 39m Comedy,Romance,War   nm0001479,nm0000912,nm0821041,nm0107795,nm0041172,nm0725897,nm0750079
+228tt0317705 The         2004https://www.imdb.com/title/tt0317705 750,055   8PG   1h 55m Animation,Action,Adventure nm0005266,nm0000456,nm0000168,nm0005134,nm0521861,nm0628599,nm0801548
+             Incredibles
+                                                                              Not
+229tt0113247 La haine   1995https://www.imdb.com/title/tt0113247 178,165   8.1Rated   1h 38m Crime,Drama   nm0001993,nm0468003,nm0846548,nm0315760,nm0813217,nm0597384,nm0712205
+             Pirates of
+             the
+             Caribbean:
+             The Curse of
+             the Black
+230tt0325980 Pearl        2003https://www.imdb.com/title/tt0325980 1,140,601   8.1PG-13   2h 23m Action,Adventure,Fantasy   nm0000136,nm0001691,nm0089217,nm0461136,nm0202603,nm0000596,nm0034305
+             The Battle of                                                      Not
+231tt0058946 Algiers       1966https://www.imdb.com/title/tt0058946 61,641   8.1Rated   2h 1m Drama,War   nm0352835,nm0552483,nm0754272,nm0449197,nm0657597,nm0252678,nm0069934
+             Hachi: A
+232tt1028532 Dog's Tale   2009https://www.imdb.com/title/tt1028532 290,951   8.1G   1h 33m Biography,Drama,Family   nm0000152,nm0000260,nm0846480,nm2105255,nm0004517,nm0042805,nm0568672
+             The Grapes
+233tt0032551 of Wrath   1940https://www.imdb.com/title/tt0032551 95,146   8.1Passed 2h 9m Drama   nm0000020,nm0002034,nm0001017,nm0335788,nm0100758,nm0801193,nm0925713
+234tt15097216Jai Bhim   2021https://www.imdb.com/title/tt15097216204,646   8.8TV-MA   2h 44m Crime,Drama,Mystery   nm1421814,nm7934649,nm8904193,nm8135195,nm0695177,nm3559559,nm5626435
+             My Father                                                       Not
+235tt0476735 and My Son 2005https://www.imdb.com/title/tt0476735 87,525   8.2Rated   1h 52m Drama,Family   nm1002038,nm0476334,nm0406157,nm2020015,nm0783072,nm1698738,nm1300254
+             Amores
+236tt0245712 Perros   2000https://www.imdb.com/title/tt0245712 243,622   8.1R   2h 34m Drama,Thriller   nm0248408,nm0305558,nm0865949,nm0346270,nm0061639,nm0758364,nm0702270
+237tt0032976 Rebecca   1940https://www.imdb.com/title/tt0032976 139,329   8.1Approved2h 10m Drama,Film-Noir,Mystery   nm0000059,nm0000021,nm0001695,nm0000752,nm0115558,nm0219666,nm0807580
+             Cool Hand
+238tt0061512 Luke        1967https://www.imdb.com/title/tt0061512 179,672   8.1GP   2h 7m Crime,Drama   nm0000056,nm0001421,nm0134201,nm0031398,nm0238105,nm0001510,nm0886888
+             The                                                              Not
+239tt4016934 Handmaiden 2016https://www.imdb.com/title/tt4016934 153,302   8.1Rated   2h 25m Drama,Romance,Thriller   nm3892241,nm1079857,nm8621196,nm6771561,nm1390122,nm1195119,nm1978402
+             The 400                                                         Not
+240tt0053198 Blows     1959https://www.imdb.com/title/tt0053198 120,571   8.1Rated   1h 39m Crime,Drama   nm0529543,nm0561158,nm0753716,nm0213948,nm0280961,nm0041756,nm0184309
+             The Sound
+241tt0059742 of Music  1965https://www.imdb.com/title/tt0059742 240,905   8.1G   2h 52m Biography,Drama,Family   nm0000267,nm0001626,nm0662223,nm0370821,nm0939931,nm0139642,nm0579991
+             It Happened
+242tt0025316 One Night 1934https://www.imdb.com/title/tt0025316 106,037   8.1Passed 1h 45m Comedy,Romance   nm0000022,nm0001055,nm0175369,nm0439850,nm0858977,nm0002118,nm0398446
+                                                                             Not
+243tt0060827 Persona   1966https://www.imdb.com/title/tt0060827 121,826   8.1Rated   1h 23m Drama,Thriller   nm0000761,nm0880521,nm0472234,nm0085038,nm0512502
+244tt0079470 Life of Brian 1979https://www.imdb.com/title/tt0079470 404,989   8R   1h 34m Comedy   nm0001037,nm0000092,nm0000416,nm0001385,nm0001402,nm0001589,nm0063027
+             The Iron
+245tt0129167 Giant      1999https://www.imdb.com/title/tt0129167 204,618   8.1PG   1h 26m Animation,Action,Adventure nm0000098,nm0001065,nm0004874,nm0304000,nm0001458,nm0001520,nm0001498
+246tt0071411 Dersu Uzala 1975https://www.imdb.com/title/tt0071411 31,167   8.2G   2h 22m Adventure,Biography,Drama nm0813272,nm0613364,nm0125730,nm1276196,nm6210352,nm6210353,nm0843102
+247tt1454029 The Help   2011https://www.imdb.com/title/tt1454029 466,011   8.1PG-13   2h 26m Drama   nm1297015,nm0205626,nm0397171,nm0818055,nm1567113,nm1501738,nm0005049
+248tt0103639 Aladdin   1992https://www.imdb.com/title/tt0103639 429,219   8G   1h 30m Animation,Adventure,Comedynm0918334,nm0000245,nm0488306,nm0293455,nm0919798,nm0331906,nm0780528
+249tt0083987 Gandhi   1982https://www.imdb.com/title/tt0083987 234,688   8PG   3h 11m Biography,Drama,History   nm0001426,nm0368990,nm0786022,nm0000298,nm0002081,nm0000024,nm0002145
+             Dances with
+250tt0099348 Wolves      1990https://www.imdb.com/title/tt0099348 271,823   8PG-13   3h 1m Adventure,Drama,Western   nm0000126,nm0001521,nm0001295,nm0002110,nm0922671,nm0001987,nm0665123
+
